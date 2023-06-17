@@ -2,7 +2,7 @@
   hi there, i'm arnav!
 </h2>
 
-<h3>
+<h3 align="center">
   socials
 </h3>
 
@@ -13,7 +13,7 @@
 
 </div>
 
-<h3>
+<h3 align="center">
   skills
 </h3>
 
