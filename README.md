@@ -2,9 +2,6 @@
   hi there, i'm arnav! 🚀
 </h2>
 
-<h3>
-  socials
-</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/arnav.03/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
