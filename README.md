@@ -5,7 +5,7 @@
 ![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet)
 
 
-## Tech Stacks
+### Tech Stacks
 
 <p align="center">
   <a href="https://skillicons.dev">
