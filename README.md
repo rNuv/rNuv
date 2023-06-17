@@ -3,7 +3,11 @@
 </h2>
 
 <p align="center">
-  software developer that likes to build things. i like full stack web dev, cloud computing and machine learning. here are some things i've messed with.
+  software developer that likes to build things. i like full stack web dev, cloud computing and machine learning.
+</p>
+
+<p align="center">
+  here are some things i've messed with...
 </p>
 
 <div align="center">
