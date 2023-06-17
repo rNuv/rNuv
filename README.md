@@ -2,7 +2,7 @@
   hi there, i'm arnav! 🚀
 </h2>
 
-<p>
+<p align="center">
   software developer that likes to build things. i like full stack web dev, cloud computing and machine learning.
 </p>
 
