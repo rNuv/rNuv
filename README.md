@@ -1,3 +1,12 @@
+<style>
+  .row {
+    display: flex;
+  }
+  .column {
+    flex: 50%;
+  }
+</style>
+
 <h2>
   hi there, i'm arnav
 </h2>
@@ -6,9 +15,9 @@
   i'm a software developer that likes to build things. i like full stack web development, cloud computing, and machine learning.
 </p>
 
-<div style="display:flex;">
-  <div style="flex:50%;">hi</div>
-  <div style="flex:50%;">hi</div>
+<div class="row">
+  <div class="column">hi</div>
+  <div class="column">hi</div>
 </div>
 
 <div align="center">
