@@ -3,12 +3,8 @@
 </h2>
 
 <p align="center">
-  software developer that likes to build things. i like full stack web dev, cloud computing and machine learning.
+  software developer that likes to build things. i like full stack web dev, cloud computing and machine learning. here are some things i've messed with.
 </p>
-
-<h4 align="center">
-  some things i've messed with
-</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
