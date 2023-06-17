@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  code
+  skills
 </h2>
 
 <div align="center">
