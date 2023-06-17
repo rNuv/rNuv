@@ -1,6 +1,6 @@
-<h1>
+<h2 align="center">
   hi there, i'm arnav
-</h1>
+</h2>
 
 <h2>
   skills
