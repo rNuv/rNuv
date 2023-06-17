@@ -2,9 +2,9 @@
   about me
 </h1>
 
-<h2 align="center">
+<p align="center" style="fontSize:24;">
   hi there, i'm arnav 👋
-</h2>
+</p>
 <p align="center">
   i'm a software developer that likes to build things. i like full stack web development, cloud computing, and machine learning.
 </p>
