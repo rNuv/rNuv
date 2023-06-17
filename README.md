@@ -2,7 +2,7 @@
   about me
 </h1>
 
-<p align="center" style="fontSize:24;">
+<p align="center" style="font-size:52;">
   hi there, i'm arnav 👋
 </p>
 <p align="center">
