@@ -2,7 +2,7 @@
   hi there, i'm arnav 👋
 </h1>
 
-<h2 align="center">
+<h2>
   about me
 </h2>
 
@@ -14,7 +14,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=r_nuv&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
 </div>
 
-<h2 align="center">
+<h2>
   skills
 </h2>
 
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </div>
 
-<h2 align="center">
+<h2>
   socials
 </h2>
 
