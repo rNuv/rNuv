@@ -1,6 +1,6 @@
-<h2>
+<h1>
   about me
-</h2>
+</h1>
 
 <p align="center">
   hi there, i'm arnav 👋
@@ -58,9 +58,9 @@
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </div>
 
-<h2>
+<h1>
   socials
-</h2>
+</h1>
 
 <div align="center">
   <a href="https://www.instagram.com/arnav.03/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
