@@ -2,6 +2,15 @@
   hi there, i'm arnav
 </h1>
 
+<h2 align="center">
+  socials
+</h2>
+
+<div align="center">
+  <a href="https://www.instagram.com/arnav.03/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arnav-nayak/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href = "mailto: arnavnayak2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white""/></a>
+</div>
 
 <h2 align="center">
   about me
@@ -54,14 +63,4 @@
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</div>
-
-<h2 align="center">
-  socials
-</h2>
-
-<div align="center">
-  <a href="https://www.instagram.com/arnav.03/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/arnav-nayak/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href = "mailto: arnavnayak2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white""/></a>
 </div>
