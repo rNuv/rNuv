@@ -10,7 +10,9 @@
   software developer that likes to build things. i like full stack web development, cloud computing, and machine learning.
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r_nuv&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=r_nuv&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
+</div>
 
 <h2 align="center">
   skills
