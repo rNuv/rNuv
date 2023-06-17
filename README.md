@@ -12,6 +12,10 @@
   about me
 </h2>
 
+<p align="center">
+  software developer that likes to build things.
+</p>
+
 <h2 align="center">
   skills
 </h2>
