@@ -2,6 +2,11 @@
   hi there, i'm arnav
 </h1>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+
 <h2 align="center">
   about me
 </h2>
