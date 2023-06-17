@@ -10,8 +10,8 @@
 
 </div>
 
-<h3>
-  skills
+<h3 align="center">
+  some things i've messed with
 </h3>
 
 <div align="center">
