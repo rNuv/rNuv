@@ -13,9 +13,9 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=r_nuv&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
 </div>
 
-<h2>
+<h1>
   skills
-</h2>
+</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
