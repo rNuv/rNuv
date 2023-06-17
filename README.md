@@ -46,9 +46,3 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,express,firebase,flask,git,java,js,materialui,matlab,mongodb,nextjs,nodejs,postman,py,raspberrypi,react,unity,vercel,bash&theme=dark&perline=5" />
-  </a>
-</p>
