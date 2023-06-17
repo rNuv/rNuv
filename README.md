@@ -1,6 +1,6 @@
-<h1>
+<h2>
   about me
-</h1>
+</h2>
 
 <h3 align="center">
   hi there, i'm arnav 👋
@@ -13,9 +13,9 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=r_nuv&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
 </div>
 
-<h1>
+<h2>
   skills
-</h1>
+</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -58,9 +58,9 @@
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </div>
 
-<h1>
+<h2>
   socials
-</h1>
+</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/arnav.03/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
