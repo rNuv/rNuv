@@ -2,10 +2,13 @@
   hi there, i'm arnav
 </h1>
 
-![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet)
+<h1 align="center">
+  code
+</h1>
 
-
-### Tech Stacks
+<div align="center">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
