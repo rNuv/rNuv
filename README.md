@@ -6,9 +6,9 @@
   software developer that likes to build things. i like full stack web dev, cloud computing and machine learning.
 </p>
 
-<h3 align="center">
+<h4 align="center">
   some things i've messed with
-</h3>
+</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
