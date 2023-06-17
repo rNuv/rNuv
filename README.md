@@ -2,7 +2,9 @@
   about me
 </h1>
 
-**hi there, i'm arnav 👋**
+<b align="center">
+  hi there, i'm arnav 👋
+</b>
 <p align="center">
   i'm a software developer that likes to build things. i like full stack web development, cloud computing, and machine learning.
 </p>
