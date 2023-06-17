@@ -6,10 +6,6 @@
   i'm a software developer that likes to build things. i like full stack web development, cloud computing, and machine learning.
 </p>
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=r_nuv&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
-</div>
-
 <h2>
   skills
 </h2>
@@ -63,5 +59,10 @@
   <a href="https://www.instagram.com/arnav.03/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arnav-nayak/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "mailto: arnavnayak2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white""/></a>
+
+  <div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=r_nuv&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
+</div>
+
 </div>
 
