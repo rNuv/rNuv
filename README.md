@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   hi there, i'm arnav
-</p>
+</h1>
 
 ![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet)
 
