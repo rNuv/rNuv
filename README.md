@@ -2,9 +2,9 @@
   hi there, i'm arnav
 </h1>
 
-<h1 align="center">
+<h2 align="center">
   code
-</h1>
+</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
