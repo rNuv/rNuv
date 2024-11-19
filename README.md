@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  software developer that likes to build things.<br> i like <b>full stack web dev</b>, <b>cloud computing</b> and <b>machine learning</b>.<br> studying ece/cs/philosophy at <b>duke university</b>.<br>interning at <b>meta</b>.
+  software developer that likes to build things.<br> i like <b>full stack web dev</b>, <b>cloud computing</b> and <b>machine learning</b>.<br> studying ece/cs/philosophy at <b>duke university</b>.
 </p>
 
 <p align="center">
